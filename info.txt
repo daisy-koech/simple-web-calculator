@@ -1,2 +1,0 @@
-Hello
-I am Daisy Koech and this is a test commit for this repository.
